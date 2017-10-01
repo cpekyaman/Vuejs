@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/udemy-vuejs/udemy-vuejs.iml" filepath="$PROJECT_DIR$/udemy-vuejs/udemy-vuejs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udemy-vuejs-assignment-1/udemy-vuejs-assignment-1.iml" filepath="$PROJECT_DIR$/udemy-vuejs-assignment-1/udemy-vuejs-assignment-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udemy-vuejs-user-app/udemy-vuejs-user-app.iml" filepath="$PROJECT_DIR$/udemy-vuejs-user-app/udemy-vuejs-user-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udemy-webpack-simple-app/udemy-webpack-simple-app.iml" filepath="$PROJECT_DIR$/udemy-webpack-simple-app/udemy-webpack-simple-app.iml" />
     </modules>
   </component>
 </project>
