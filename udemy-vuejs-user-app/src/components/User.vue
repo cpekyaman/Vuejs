@@ -8,10 +8,10 @@
         <hr />
         <b-row>
             <b-col sm="6">
-                <app-user-detail :name="name" @nameReset="onNameReset" :resetCallback="reset"></app-user-detail>
+                <app-user-detail :name="name" :userAge="age" @nameReset="onNameReset" :resetCallback="reset"></app-user-detail>
             </b-col>
             <b-col sm="6">
-                <app-user-edit></app-user-edit>
+                <app-user-edit :userAge="age"></app-user-edit>
             </b-col>
         </b-row>
     </div>
@@ -24,7 +24,8 @@
     export default {
         data() {
             return {
-                name : 'Cenk'
+                name : 'Cenk',
+                age : 37
             }
         },
         methods : {

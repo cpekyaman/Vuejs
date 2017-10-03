@@ -4,6 +4,9 @@
             <b-form-group id="userName" label="UserName" horizontal>
                 <b-form-input type="text" readonly :value="reversedName"></b-form-input>
             </b-form-group>
+            <b-form-group id="userAge" label="UserAge" horizontal>
+                <b-form-input type="text" readonly :value="userAge"></b-form-input>
+            </b-form-group>
             <br />
             <br />
             <b-button-group>
@@ -15,10 +18,13 @@
 </template>
 
 <script>
+    import { eventBus } from '../main.js'
+
     export default {
         props : {
             name : { type : String, required : true },
-            resetCallback : {type : Function }
+            resetCallback : {type : Function },
+            userAge : { type : Number}
         },
         computed : {
             reversedName() {
@@ -30,6 +36,11 @@
                 this.name = this.name === 'Cenk' ? 'Alex' : 'Cenk'
                 this.$emit('nameReset', this.name)
             }
+        },
+        created() {
+            eventBus.$on('ageChanged', (age) => {
+                this.userAge = age
+            })
         }
     }
 </script>
