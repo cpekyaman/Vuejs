@@ -6,14 +6,19 @@
         </div>
 
         <div name="content">
-            <slot name="content"></slot>
+            <slot name="content">Default Content</slot>
         </div>
     </div>
 </template>
 
 <script>
     export default {
-
+        created() {
+            console.log('Quote created')
+        },
+        mounted() {
+            console.log('Quote mounted')
+        }
     }
 </script>
 
