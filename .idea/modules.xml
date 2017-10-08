@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/udemy-vuejs-assignment-3/udemy-vuejs-assignment-3.iml" filepath="$PROJECT_DIR$/udemy-vuejs-assignment-3/udemy-vuejs-assignment-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemy-vuejs-quote-app/udemy-vuejs-quote-app.iml" filepath="$PROJECT_DIR$/udemy-vuejs-quote-app/udemy-vuejs-quote-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemy-vuejs-user-app/udemy-vuejs-user-app.iml" filepath="$PROJECT_DIR$/udemy-vuejs-user-app/udemy-vuejs-user-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/udemy-vuejs-wonderful-quotes.iml" filepath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/udemy-vuejs-wonderful-quotes.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemy-webpack-simple-app/udemy-webpack-simple-app.iml" filepath="$PROJECT_DIR$/udemy-webpack-simple-app/udemy-webpack-simple-app.iml" />
     </modules>
   </component>
