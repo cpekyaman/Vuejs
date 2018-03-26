@@ -5,6 +5,9 @@
             <h1>Custom Directives</h1>
             <p v-highlight:background.delayed="'red'">Color this</p>
             <p v-app-highligt:background.delayed.blink="highlightData">Color this too</p>
+
+            <button v-myEvent:click="clicked">Click Me</button>
+            <div v-myEvent:mouseenter="entered" style="width: 100px; height: 100px; background-color: green"></div>
         </div>
     </div>
 </template>
@@ -21,7 +24,21 @@
                 }
             }
         },
+        methods : {
+          clicked() {
+              alert('I clicked')
+          },
+            entered() {
+              console.log("mouse entered")
+            }
+        },
         directives: {
+            myEvent: {
+              bind(el, binding, vnode) {
+                  const event = binding.arg
+                  el.addEventListener(event, binding.value)
+              }
+            },
             appHighligt: {
                 bind(el, binding, vnode) {
                     let delay = 0

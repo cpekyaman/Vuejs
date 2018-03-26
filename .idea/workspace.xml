@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4de50a51-8c4f-48e6-b9d8-7f4cab8c5c07" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy-vuejs-animations/src/components/Danger.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy-vuejs-animations/src/components/Success.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy-vuejs-animations/udemy-vuejs-animations.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy-vuejs-filterandmixin/src/components/List.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy-vuejs-filterandmixin/src/mixin/fruits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy-vuejs-filterandmixin/udemy-vuejs-filterandmixin.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy-vuejs-mixin-assignment/udemy-vuejs-mixin-assignment.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/assets/logo.png" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/assets/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/assets/logo.png" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/assets/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/assets/logo.png" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/assets/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-directives/src/assets/logo.png" afterPath="$PROJECT_DIR$/udemy-vuejs-directives/src/assets/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-form-app/src/assets/logo.png" afterPath="$PROJECT_DIR$/udemy-vuejs-form-app/src/assets/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/src/assets/logo.png" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/src/assets/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/src/assets/logo.png" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/src/assets/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/assets/logo.png" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/assets/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/src/assets/logo.png" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/src/assets/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vuejs.iml" afterPath="$PROJECT_DIR$/Vuejs.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/.babelrc" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/.gitignore" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/README.md" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/index.html" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/package.json" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/App.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/component/server/Dashboard.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/component/server/Dashboard.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/component/server/ServerDetail.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/component/server/ServerDetail.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/component/server/ServerList.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/component/server/ServerList.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/component/shared/Banner.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/component/shared/Banner.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/component/shared/Footer.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/component/shared/Footer.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/component/shared/Header.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/component/shared/Header.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/main.js" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/udemy-vuejs-assignment-1.iml" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/udemy-vuejs-assignment-1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/webpack.config.js" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-1/yarn.lock" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-1/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/.babelrc" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/.gitignore" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/README.md" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/index.html" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/package.json" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/App.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/server/Dashboard.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/server/Dashboard.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/server/ServerDetail.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/server/ServerDetail.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/server/ServerItem.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/server/ServerItem.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/server/ServerList.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/server/ServerList.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/shared/Banner.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/shared/Banner.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/shared/Footer.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/shared/Footer.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/shared/Header.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/shared/Header.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/main.js" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/udemy-vuejs-assignment-2.iml" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/udemy-vuejs-assignment-2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/webpack.config.js" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-2/yarn.lock" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-2/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/.babelrc" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/.gitignore" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/README.md" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/index.html" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/package.json" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/App.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/components/Blue.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/components/Blue.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/components/Green.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/components/Green.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/components/Red.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/components/Red.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/main.js" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/udemy-vuejs-assignment-3.iml" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/udemy-vuejs-assignment-3.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/webpack.config.js" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-assignment-3/yarn.lock" afterPath="$PROJECT_DIR$/udemy-vuejs-assignment-3/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-directives/.babelrc" afterPath="$PROJECT_DIR$/udemy-vuejs-directives/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-directives/.gitignore" afterPath="$PROJECT_DIR$/udemy-vuejs-directives/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-directives/README.md" afterPath="$PROJECT_DIR$/udemy-vuejs-directives/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-directives/index.html" afterPath="$PROJECT_DIR$/udemy-vuejs-directives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-directives/package.json" afterPath="$PROJECT_DIR$/udemy-vuejs-directives/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-directives/src/App.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-directives/src/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-directives/src/main.js" afterPath="$PROJECT_DIR$/udemy-vuejs-directives/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-directives/udemy-vuejs-directives.iml" afterPath="$PROJECT_DIR$/udemy-vuejs-directives/udemy-vuejs-directives.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-directives/webpack.config.js" afterPath="$PROJECT_DIR$/udemy-vuejs-directives/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-directives/yarn.lock" afterPath="$PROJECT_DIR$/udemy-vuejs-directives/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-form-app/.babelrc" afterPath="$PROJECT_DIR$/udemy-vuejs-form-app/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-form-app/.gitignore" afterPath="$PROJECT_DIR$/udemy-vuejs-form-app/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-form-app/README.md" afterPath="$PROJECT_DIR$/udemy-vuejs-form-app/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-form-app/index.html" afterPath="$PROJECT_DIR$/udemy-vuejs-form-app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-form-app/package.json" afterPath="$PROJECT_DIR$/udemy-vuejs-form-app/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-form-app/src/App.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-form-app/src/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-form-app/src/components/FullName.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-form-app/src/components/FullName.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-form-app/src/main.js" afterPath="$PROJECT_DIR$/udemy-vuejs-form-app/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-form-app/udemy-vuejs-form-app.iml" afterPath="$PROJECT_DIR$/udemy-vuejs-form-app/udemy-vuejs-form-app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-form-app/webpack.config.js" afterPath="$PROJECT_DIR$/udemy-vuejs-form-app/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-form-app/yarn.lock" afterPath="$PROJECT_DIR$/udemy-vuejs-form-app/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/.babelrc" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/.gitignore" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/README.md" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/index.html" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/package.json" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/src/App.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/src/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/src/components/Author.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/src/components/Author.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/src/components/NewQuote.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/src/components/NewQuote.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/src/components/Quote.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/src/components/Quote.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/src/main.js" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/udemy-vuejs-quote-app.iml" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/udemy-vuejs-quote-app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/webpack.config.js" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-quote-app/yarn.lock" afterPath="$PROJECT_DIR$/udemy-vuejs-quote-app/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/.babelrc" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/.gitignore" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/README.md" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/index.html" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/package.json" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/src/App.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/src/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/src/components/User.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/src/components/User.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/src/components/UserDetail.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/src/components/UserDetail.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/src/components/UserEdit.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/src/components/UserEdit.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/src/main.js" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/udemy-vuejs-user-app.iml" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/udemy-vuejs-user-app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/webpack.config.js" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-user-app/yarn.lock" afterPath="$PROJECT_DIR$/udemy-vuejs-user-app/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/.babelrc" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/.gitignore" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/README.md" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/index.html" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/package.json" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/App.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/Footer.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/Footer.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/Header.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/Header.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/Quote.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/Quote.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/QuoteEntry.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/QuoteEntry.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/QuoteGrid.vue" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/QuoteGrid.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/main.js" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/udemy-vuejs-wonderful-quotes.iml" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/udemy-vuejs-wonderful-quotes.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/webpack.config.js" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/yarn.lock" afterPath="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs/first-app/css/app.css" afterPath="$PROJECT_DIR$/udemy-vuejs/first-app/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs/first-app/css/custom.css" afterPath="$PROJECT_DIR$/udemy-vuejs/first-app/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs/first-app/css/foundation.min.css" afterPath="$PROJECT_DIR$/udemy-vuejs/first-app/css/foundation.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs/first-app/index.html" afterPath="$PROJECT_DIR$/udemy-vuejs/first-app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs/first-app/js/app.js" afterPath="$PROJECT_DIR$/udemy-vuejs/first-app/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-vuejs/udemy-vuejs.iml" afterPath="$PROJECT_DIR$/udemy-vuejs/udemy-vuejs.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/.babelrc" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/.gitignore" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/README.md" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/index.html" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/package.json" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/src/App.vue" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/src/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/src/Home.vue" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/src/Home.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/src/ServerStatus.vue" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/src/ServerStatus.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/src/main.js" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/udemy-webpack-simple-app.iml" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/udemy-webpack-simple-app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/webpack.config.js" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy-webpack-simple-app/yarn.lock" afterPath="$PROJECT_DIR$/udemy-webpack-simple-app/yarn.lock" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>leave</find>
+      <find>leave-active</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/udemy-vuejs-user-app/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-user-app/src/components/UserDetail.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-user-app/src/main.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-user-app/src/components/UserEdit.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-user-app/src/components/User.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-assignment-2/webpack.config.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/server/ServerList.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-assignment-2/package.json" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/main.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/server/ServerDetail.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/server/ServerItem.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-quote-app/webpack.config.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-quote-app/src/main.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-quote-app/src/components/Quote.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-quote-app/src/components/NewQuote.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-quote-app/src/App.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-quote-app/src/components/Author.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/main.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/components/Blue.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/components/Green.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/components/Red.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-assignment-3/webpack.config.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-assignment-3/src/App.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/webpack.config.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/main.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/Footer.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/Header.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/Quote.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/QuoteGrid.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/QuoteEntry.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/App.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-form-app/src/main.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-form-app/webpack.config.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-form-app/src/App.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-form-app/src/components/FullName.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-directives/src/main.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-directives/src/App.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-filterandmixin/package.json" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-filterandmixin/webpack.config.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-form-app/package.json" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-filterandmixin/src/mixin/frutis.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-filterandmixin/src/main.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-filterandmixin/src/App.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-filterandmixin/src/components/List.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-mixin-assignment/src/main.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-mixin-assignment/src/App.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-animations/src/main.js" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-animations/src/components/Danger.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-animations/src/components/Success.vue" />
+        <option value="$PROJECT_DIR$/udemy-vuejs-animations/src/App.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\REPO\Maven" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/udemy-vuejs-animations/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy-vuejs-assignment-1/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy-vuejs-assignment-2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy-vuejs-assignment-3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy-vuejs-directives/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy-vuejs-filterandmixin/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy-vuejs-form-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy-vuejs-mixin-assignment/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy-vuejs-quote-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy-vuejs-user-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy-webpack-simple-app/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1848" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Vuejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-vuejs-animations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vuejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-vuejs-animations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vuejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-vuejs-animations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vuejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-vuejs-filterandmixin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vuejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-vuejs-filterandmixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vuejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-vuejs-filterandmixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vuejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-vuejs-filterandmixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mixin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_interpreter_path" value="C:/Raistlin/Development/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/udemy-vuejs-animations" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.2.1" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29605263" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Markdown" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Workspace\IDEA\2017\Projects\Vuejs\udemy-vuejs-mixin-assignment" />
+      <recent name="E:\Workspace\IDEA\2017\Projects\Vuejs\udemy-vuejs-filterandmixin\src\components" />
+      <recent name="E:\Workspace\IDEA\2017\Projects\Vuejs\udemy-vuejs-assignment-3\src" />
+      <recent name="E:\Workspace\IDEA\2017\Projects\Vuejs\udemy-vuejs-quote-app\src\components" />
+      <recent name="E:\Workspace\IDEA\2017\Projects\Vuejs\udemy-vuejs-assignment-2\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Workspace\IDEA\2017\Projects\Vuejs\udemy-vuejs-assignment-1\src\component\server" />
+      <recent name="E:\Workspace\IDEA\2017\Projects\Vuejs\udemy-vuejs-assignment-1\src\component\shared" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy-vuejs" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy-vuejs" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy-vuejs" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="udemy-vuejs" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy-vuejs" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy-vuejs" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="udemy-vuejs" />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy-vuejs" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4de50a51-8c4f-48e6-b9d8-7f4cab8c5c07" name="Default" comment="" />
+      <created>1506627666558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506627666558</updated>
+      <workItem from="1506627670192" duration="5613000" />
+      <workItem from="1506774620632" duration="2162000" />
+      <workItem from="1506779739795" duration="29000" />
+      <workItem from="1506779791784" duration="8015000" />
+      <workItem from="1506883080806" duration="8368000" />
+      <workItem from="1507060335303" duration="5410000" />
+      <workItem from="1507474231783" duration="8650000" />
+      <workItem from="1507583505621" duration="626000" />
+      <workItem from="1508092246543" duration="7388000" />
+      <workItem from="1508186368015" duration="1965000" />
+      <workItem from="1514814408215" duration="11056000" />
+      <workItem from="1514918759702" duration="5962000" />
+    </task>
+    <task id="LOCAL-00001" summary="sample projects">
+      <created>1506893269664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506893269664</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second assignment and new module src">
+      <created>1507066815835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1507066815835</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third assignment and module wrap up">
+      <created>1507476342772</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1507476342772</updated>
+    </task>
+    <task id="LOCAL-00004" summary="wonderful quotes app">
+      <created>1507493674651</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1507493674651</updated>
+    </task>
+    <task id="LOCAL-00005" summary="form handling">
+      <created>1508101285225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1508101285225</updated>
+    </task>
+    <task id="LOCAL-00006" summary="custom directives">
+      <created>1508188697189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1508188697189</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="65244000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1848" height="1088" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5066741" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.49332592" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27919912" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5066741" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.49332592" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27141267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="sample projects" />
+    <MESSAGE value="second assignment and new module src" />
+    <MESSAGE value="third assignment and module wrap up" />
+    <MESSAGE value="wonderful quotes app" />
+    <MESSAGE value="form handling" />
+    <MESSAGE value="custom directives" />
+    <option name="LAST_COMMIT_MESSAGE" value="custom directives" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-assignment-2/src/component/server/ServerItem.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="76" lean-forward="false" selection-start-line="1" selection-start-column="76" selection-end-line="1" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-quote-app/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-quote-app/src/components/Quote.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-quote-app/src/components/NewQuote.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-quote-app/src/components/Author.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-assignment-2/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-assignment-3/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-assignment-3/src/components/Green.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-assignment-3/src/components/Blue.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-assignment-3/src/components/Red.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-assignment-2/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-assignment-3/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-557">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-assignment-3/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-user-app/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-quote-app/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/Quote.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/Header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/Footer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/QuoteEntry.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/components/QuoteGrid.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-form-app/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-form-app/src/components/FullName.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-directives/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-directives/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-webpack-simple-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-wonderful-quotes/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-user-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-user-app/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-form-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-filterandmixin/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-filterandmixin/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-form-app/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-filterandmixin/src/mixin/fruits.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-mixin-assignment/App.vue" />
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-filterandmixin/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-filterandmixin/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#465#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-mixin-assignment/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-mixin-assignment/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-form-app/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-animations/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-animations/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-animations/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="6992" column="1" lean-forward="false" selection-start-line="6992" selection-start-column="1" selection-end-line="6992" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-animations/src/components/Danger.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="57" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-animations/src/components/Success.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-filterandmixin/src/components/List.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-vuejs-animations/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="118" column="8" lean-forward="true" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#b-list-group-item#0;n#transition-group#0;n#b-list-group#0;n#b-col#0;n#b-row#2;n#b-container#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#3209#3253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>vue</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29605263" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29605263" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>udemy-vuejs-animations</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29605263" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
